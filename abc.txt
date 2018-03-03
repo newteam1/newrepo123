@@ -2,4 +2,5 @@ sadsa
 fu keing
 
 gfA SNLKDnjafdSjksfd
-gfA SNLKDnjafdSjksfd//dfdfddsfdsdffunction 1(){}
+gfA SNLKDnjafdSjksfd//dfdfddsfdsdf
+function 1(){}
