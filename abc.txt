@@ -2,3 +2,5 @@ sadsa
 fu keing
 
 gfA SNLKDnjafdSjksfd
+
+function 1(){}
